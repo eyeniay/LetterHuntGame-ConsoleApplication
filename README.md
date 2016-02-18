@@ -23,5 +23,5 @@ Each level contains 2 different idioms or proverbs, and its own game screen layo
 *In the third level, there are six different inner walls which have 10-character block. 
 *In the last level, there are eight different inner walls which have 10-character block. 
 
-Project's video --> https://youtu.be/cMDFHbBtz5s?t=1s
+Project's trailer --> https://youtu.be/cMDFHbBtz5s?t=1s
 
