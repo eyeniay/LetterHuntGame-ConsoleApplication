@@ -1144,9 +1144,9 @@ namespace Letter_Hunt
                                 Console.WriteLine("         ");
                             }
 
-                            SoundPlayer robocop = new SoundPlayer();
-                            robocop.SoundLocation = "sounds\\robocop2.wav";
-                            robocop.Play();
+                          //  SoundPlayer robocop = new SoundPlayer();
+                          //  robocop.SoundLocation = "sounds\\robocop2.wav";
+                         //    robocop.Play();
                             Console.Clear();
                             Console.ResetColor();
 
@@ -1284,9 +1284,9 @@ namespace Letter_Hunt
                         }
                         else
                         {
-                            SoundPlayer over = new SoundPlayer();
-                            over.SoundLocation = "sounds\\gameover.wav";
-                            over.Play();
+                          //  SoundPlayer over = new SoundPlayer();
+                        //    over.SoundLocation = "sounds\\gameover.wav";
+                         //   over.Play();
 
                             for (int k = 0; k < 8; k++)
                             {
@@ -1304,9 +1304,9 @@ namespace Letter_Hunt
                                 Console.SetCursorPosition(snake33[noktatut].X, snake33[0].Y);
                                 Console.WriteLine("         ");
                             }
-                            SoundPlayer robocop = new SoundPlayer();
-                            robocop.SoundLocation = "sounds\\robocop2.wav";
-                            robocop.Play();
+                          //  SoundPlayer robocop = new SoundPlayer();
+                        //    robocop.SoundLocation = "sounds\\robocop2.wav";
+                         //   robocop.Play();
                             Console.Clear();
                             Console.ResetColor();
                             Thread.Sleep(800);
@@ -1631,9 +1631,9 @@ namespace Letter_Hunt
 
         static void Main(string[] args)
         {
-            SoundPlayer robocop = new SoundPlayer();
-            robocop.SoundLocation = "sounds\\robocop.wav";
-            robocop.Play();
+          //  SoundPlayer robocop = new SoundPlayer();
+        //    robocop.SoundLocation = "sounds\\robocop.wav";
+         //   robocop.Play();
             Console.CursorVisible = false;
             Console.SetWindowSize(120, 30); // set console size
             Console.Title = "Letter Hunt - Dokuz Eylul University - Department of Computer Engineering";
